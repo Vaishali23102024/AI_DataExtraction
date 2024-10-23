@@ -1,0 +1,11 @@
+PyPDF2
+langchain
+langchain_google_genai
+langchain_community
+pinecone
+google.generativeai
+fpdf
+pdfplumber
+Pillow
+streamlit
+python-dotenv
